@@ -104,6 +104,42 @@ components:
       tech_stack:
         - "javascript"
 
+    - name: "hokage-chess"
+      path: "../../4444J99/hokage-chess"
+      type: "landing-page"
+      status: "elevation-pending"
+      remote_org: "4444j99"
+      genome: "../../4444J99/hokage-chess/seed.yaml"
+      tech_stack:
+        - "next.js"
+        - "tailwind"
+      dependencies:
+        - "omni-dromenon-machina"
+
+    - name: "my-knowledge-base"
+      path: "../../organvm/my-knowledge-base"
+      type: "knowledge-engine"
+      status: "active"
+      remote_org: "ivviiviivvi"
+      genome: "../../organvm/my-knowledge-base/seed.yaml"
+      tech_stack:
+        - "typescript"
+        - "sqlite"
+        - "ollama"
+
+    - name: "sovereign-systems--elevate-align"
+      path: "../../organvm/sovereign-systems--elevate-align"
+      type: "web-app"
+      status: "active"
+      remote_org: "ivviiviivvi"
+      genome: "../../organvm/sovereign-systems--elevate-align/seed.yaml"
+      tech_stack:
+        - "astro"
+        - "three.js"
+        - "cloudflare"
+      dependencies:
+        - "omni-dromenon-machina"
+
 relationships:
   - source: "omni-dromenon-machina"
     target: "life-my--midst--in"
