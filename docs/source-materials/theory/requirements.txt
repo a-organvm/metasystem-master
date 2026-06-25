@@ -27,7 +27,7 @@ pytest-mock>=3.15.1    # Mocking support
 pytest-benchmark>=5.2.3 # Performance benchmarks
 freezegun>=1.5.5       # Time mocking
 faker>=40.23.0          # Generate test data
-coverage>=7.14.2        # Coverage measurement
+coverage>=7.14.3        # Coverage measurement
 coverage-badge>=1.1.2  # Coverage badges
 
 # Test utilities
