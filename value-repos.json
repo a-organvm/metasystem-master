@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "description": "Repos promoted into the ranked value tier - discovered to hold concrete, build-out-worthy latent value.",
+  "ranked": [
+    {
+      "repo": "organvm/metasystem-master",
+      "promoted": "2026-07-01",
+      "source": "auto-discovery",
+      "tier": "product",
+      "value": "Reusable live co-creation engine for audience-participatory performance: a real-time consensus backplane with performer override, deployable WebSocket server, tested weighting/bus logic, and a generative-music proof path that can become a publishable arts/education/venue demo.",
+      "first_task": "Ship a reproducible alpha demo that starts the core engine plus the generative-music audience/performer flow from a fresh install, passes the core-engine consensus/bus tests in CI, and documents the exact local-to-venue runbook as the first publishable package boundary.",
+      "thesis": "DISCOVERY.md"
+    }
+  ]
+}
