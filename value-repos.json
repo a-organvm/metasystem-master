@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "description": "Repos promoted into the ranked value tier - discovered to hold concrete, build-out-worthy latent value.",
+  "ranked": [
+    {
+      "repo": "organvm/metasystem-master",
+      "promoted": "2026-07-01",
+      "source": "auto-discovery",
+      "tier": "product",
+      "value": "Reusable audience-consensus backplane for live co-creation: a tested real-time Socket.io core with parameter bus, weighted consensus, performer override, React participation surfaces, deployment scaffolding, and a generative-music proof path for venue, classroom, installation, and grant-funded pilots.",
+      "first_task": "Ship a reproducible alpha demo that starts the core engine and the generative-music audience/performer flow from a fresh install, adds non-empty smoke/integration tests for that demo, and documents the exact local-to-venue runbook as the first publishable package boundary.",
+      "thesis": "DISCOVERY.md"
+    }
+  ]
+}
